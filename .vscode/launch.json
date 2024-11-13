@@ -1,0 +1,41 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BasicMediaPlayer",
+            "request": "launch",
+            "mainClass": "BasicMediaPlayer",
+            "projectName": "javafxx_6599a37f",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.13/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorLayout",
+            "request": "launch",
+            "mainClass": "CalculatorLayout",
+            "projectName": "javafxx_6599a37f"
+        },
+        {
+            "type": "java",
+            "name": "EventHandlingDemo",
+            "request": "launch",
+            "mainClass": "EventHandlingDemo",
+            "projectName": "javafxx_6599a37f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaFX App",
+            "request": "launch",
+            "mainClass": "BasicMediaPlayer",
+            "projectName": "javafxx_6599a37f",
+            "vmArgs": "--module-path C:/javafx-sdk-17.0.13/lib --add-modules javafx.controls,javafx.fxml,javafx.media"
+        }
+    ]
+}
